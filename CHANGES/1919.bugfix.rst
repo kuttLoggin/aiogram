@@ -1,1 +1,1 @@
-Fixed rendering of nested text entities that start at the same offset.
+Fixed incorrect HTML rendering of nested text entities sharing the same offset.
