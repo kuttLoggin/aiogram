@@ -1,1 +1,2 @@
-Fixed incorrect HTML rendering of nested text entities sharing the same offset.
+Fixed :meth:`aiogram.utils.formatting.Text.render` emitting nested text entities
+with the same offset in the wrong order.
